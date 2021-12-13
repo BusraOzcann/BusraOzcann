@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=busraozcann&show_icons=true&theme=radical&locale=en&layout=compact" alt="busraozcann" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busraozcann&show_icons=true&theme=tokyonight&locale=en" alt="busraozcann" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busraozcann&show_icons=true&theme=radical&locale=en" alt="busraozcann" /></p>
