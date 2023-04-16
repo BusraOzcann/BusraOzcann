@@ -1,3 +1,4 @@
+# 💫 About Me:
 I am Büşra, a software developer 💻 
 
 
@@ -18,4 +19,3 @@ I am Büşra, a software developer 💻
 [![](https://visitcount.itsvg.in/api?id=BusraOzcann&icon=0&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![image](https://user-images.githubusercontent.com/62213307/232288471-56943fa6-9603-4b93-a097-19c4cb1ba419.png)
